@@ -1,6 +1,8 @@
 # 2024-paris-olympic
 2024 파리 올림픽 관련 데이터입니다. [위키피디아](https://en.wikipedia.org/wiki/List_of_2024_Summer_Olympics_medal_winners#) 및 [나무위키](https://namu.wiki/w/2024%20%ED%8C%8C%EB%A6%AC%20%EC%98%AC%EB%A6%BC%ED%94%BD#s-7.2)를 참고하여 제작하였습니다. 
 
+해당 데이터를 사용한 데이터 시각화 및 분석 과정은 [유튜브](https://youtu.be/mUuX7GKiHa0)에 공개되어 있습니다.
+
 ## 데이터 스키마
 
 ### [countries.csv](https://github.com/EDA-study/2024-paris-olympic/blob/main/data/countries.csv)
